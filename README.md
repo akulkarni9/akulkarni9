@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ajaykumar N Kulkarni
 ============================================================================================================================================
 
-Senior Software Engineer at NatWest Group
+Engineering Manager at Accenture
 -----------------------------------------
 
 Developer of award-winning Carbon Planner web app, skilled in AI/ML, full-stack development, and user-centric design. Proven success in driving innovation with AI and ML. Eager to build impactful web solutions with React, Python, and TensorFlow.
