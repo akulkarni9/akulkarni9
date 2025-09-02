@@ -36,5 +36,3 @@ Developer of award-winning Carbon Planner web app, skilled in AI/ML, full-stack 
 ### Support Me
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/akulkarni9)
-
-</ul>
