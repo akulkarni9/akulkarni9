@@ -7,7 +7,7 @@ Engineering Manager at Accenture
 Developer of award-winning Carbon Planner web app, skilled in AI/ML, full-stack development, and user-centric design. Proven success in driving innovation with AI and ML. Eager to build impactful web solutions with React, Python, and TensorFlow.
 
 * 🌍  I'm based in Bangalore, Karnataka, India - 560083
-* 🖥️  See my portfolio at [My Portfolio](http://akulkarni9.github.io)
+* 🖥️  See my portfolio at [My Portfolio](https://ajay-portfolio-navy.vercel.app/)
 * ✉️  You can contact me at [ajaykulkarni178@gmail.com](mailto:ajaykulkarni178@gmail.com)
 * 🚀  I'm currently working on [Carbon Planner Web App](http://www.natwest.com/business/green-banking/carbon-planner.html)
 
@@ -37,6 +37,6 @@ Developer of award-winning Carbon Planner web app, skilled in AI/ML, full-stack 
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/akulkarni9"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;">[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/akulkarni9)</li>
 
 </ul>
